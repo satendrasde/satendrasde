@@ -1,5 +1,5 @@
 <!-- Top Banner -->
-<img src="https://media.licdn.com/dms/image/v2/D5616AQHosF2emtoHhw/profile-displaybackgroundimage-shrink_350_1400/B56ZcgxSqgHgAc-/0/1748601482699?e=1753920000&v=beta&t=yU-yRKxwJo5FXtoXsOh-Xgo-w1ws9SczxUa7_UbBJ7c" alt="Satendra Sde" style="width:100%;"/>
+<img src="https://media.licdn.com/dms/image/v2/D5616AQHosF2emtoHhw/profile-displaybackgroundimage-shrink_350_1400/B56ZcgxSqgHgAc-/0/1748601482699?e=1753920000&v=beta&t=yU-yRKxwJo5FXtoXsOh-Xgo-w1ws9SczxUa7_UbBJ7c" alt="Satendra Sde" style="width:100%; border-radius:10px;"/>
 
 # 💫 About Me:!
 
