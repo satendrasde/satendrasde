@@ -1,4 +1,7 @@
-# 💫 About Me:
+[Linkdln](https://github.com/user-attachments/assets/4df83547-a21a-4b89-a012-f5d6399605db)
+
+# 💫 About Me:!
+
 Hello there! 👋 I'm a passionate🚀Website Developer with a Bachelor's degree🎓in Computer Science. I take pride in crafting exceptional, responsive websites using the latest technologies🌐to deliver top-notch quality in record time. My commitment to innovation and continuous learning ensures that I stay ahead of the curve, providing valuable insights to help you grow🌟rapidly.<br><br>I specialize in the Full Stack Engineer👨‍💻, utilizing Java, JavaScript and TypeScript for dynamic and interactive web solutions💻. My proficiency extends to HTML5, and CSS3, and expertise in frameworks like Tailwind CSS and Bootstrap for sleek and modern designs. With a strong foundation in Java, Spring Boot, Node.js, Angular, and Express.js, I bring versatility and efficiency to every project👌.<br><br>What sets me apart is my dedication to quality work🌟through hard work and integrity, prioritizing your success over mere monetary🛠️ gains. My experience with behavior-driven development underscores my commitment to delivering not just websites but impactful solutions tailored to your needs💼.<br><br>If you're ready to elevate your business or project with a touch of modernism and a commitment to excellence, feel free to reach out📞. Let's build something extraordinary together! 🌟
 
 
